@@ -1,6 +1,6 @@
 getgenv().Team = "Pirates"
 getgenv().Xero_Setting = {
-    Key = getgenv().xero_key,
-    Device = 'CHANGE-ME',
+    ['Key'] = getgenv().xero_key,
+    ['Device'] = 'CHANGE-ME',
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Xero2409/Panel/refs/heads/main/panel.lua"))()
