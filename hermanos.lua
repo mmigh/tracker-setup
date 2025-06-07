@@ -1,5 +1,5 @@
 getgenv().Hermanos_Settings = {
-    ['key'] = getgenv().hermanos_key,
+    ['key'] = getgenv().Key_1,
     ['PC'] = 'CHANGE-ME',
     webhooks = {
         fullmoon = 'https://discord.com/api/webhooks/',
